@@ -1,0 +1,18 @@
+input_file: 
+dev_path: 
+result_root_dir: 
+dataset_version: 
+model_id: deepseek-r1
+api_key:
+base_url: 
+use_system_prompt: False
+batch_size: 10
+concurrency: 10
+shot_num: 0
+task_type: multi-choice
+temperature: 0.6
+# add_temperature: 0.1
+n: 1
+price_file: 
+thinking_starter: <think>\n
+

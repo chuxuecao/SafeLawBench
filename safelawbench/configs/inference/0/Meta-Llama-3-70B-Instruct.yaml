@@ -1,0 +1,18 @@
+batch_size: 128
+cache_dir: 
+clean_output: false
+dataset_version: 
+dev_data_dir: 
+input_file: 
+max_model_len: 4096
+max_token: 512
+model_id: 
+num_instances: 2
+result_root_dir: 
+shot_num: 0
+task_type: multi-choice
+temperature: 0.6
+tensor_parallel_size: 4
+top_p: 0.9
+use_system_prompt: true
+language: en

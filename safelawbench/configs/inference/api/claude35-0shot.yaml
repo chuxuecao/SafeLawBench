@@ -1,0 +1,14 @@
+input_file: 
+dev_path: 
+result_root_dir: 
+dataset_version: 
+model_id: claude-3-5-sonnet-20241022
+api_key: 
+base_url: 
+batch_size: 10
+shot_num: 0
+task_type: multi-choice
+# add_temperature: 0.1
+
+n: 1
+

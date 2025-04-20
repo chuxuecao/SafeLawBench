@@ -1,0 +1,10 @@
+{
+    "gpt-4o": {
+        "prompt": 0,
+        "completion": 0
+    },
+    "deepseek-r1": {
+        "prompt": 0,
+        "completion": 0
+    }
+}
