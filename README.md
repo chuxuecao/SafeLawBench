@@ -40,6 +40,8 @@ Before evaluation, add the `classification_keys.json`.
 
 ## 🏆 Mini-Leaderboard
 
+### Multi-choices
+
 |Model|Open?|Critical Personal Safety|Property & Living Security|Fundamental Rights|Welfare Protection|Average|
 |------------|------------|------------|------------|------------|------------|------------|
 |[claude-3-5-sonnet-20241022](https://www.anthropic.com/news/claude-3-5-sonnet)|No|82.1|86.6|**79.3**|80.4|83.5|**78.6**|**82.4**|**85.8**|**78.6**|**79.0**|**80.5**|
@@ -62,6 +64,32 @@ Before evaluation, add the `classification_keys.json`.
 |[gemma-2-2b-it](https://huggingface.co/models/Gemma-2-2B-IT)|Yes|62.7|68.8|56.0|61.1|63.0|54.9|60.7|62.3|57.7|56.2|58.7|
 |[vicuna-7b-v1.5](https://huggingface.co/models/Vicuna-7B-V1.5)|Yes|48.5|50.8|42.5|48.5|44.7|43.3|46.9|51.9|41.1|42.0|45.1|
 |[vicuna-13b-v1.5](https://huggingface.co/models/Vicuna-13B-V1.5)|Yes|33.1|36.5|27.9|32.9|28.9|28.8|30.8|34.2|28.2|26.3|30.0|
+
+### Open-domain QAs
+
+| Model                             | Elo Score |
+|-----------------------------------|-------|
+| DeepSeek-R1                       | 5652  |
+| Qwen2.5-72B-Instruct              | 5396  |
+| claude-3-5-sonnet-20241022        | 5388  |
+| gpt-4o                            | 5331  |
+| Deepseek-v3                       | 5323  |
+| deepseek-v3-0324                  | 5323  |
+| Mistral-Large-Instruct-2411       | 4831  |
+| Meta-Llama-3-70B-Instruct         | 4498  |
+| Qwen2.5-14B-Instruct              | 4441  |
+| Llama-3.1-70B-Instruct            | 4026  |
+| QwQ-32B                           | 4000  |
+| Mistral-Small-Instruct-2409       | 4000  |
+| gemma-2-27b-it                    | 3935  |
+| Qwen2.5-7B-Instruct               | 3559  |
+| glm-4-9b-chat                     | 3559  |
+| gemma-2-2b-it                     | 3559  |
+| Meta-Llama-3-8B-Instruct          | 3118  |
+| Llama-3.1-8B-Instruct             | 2677  |
+| Qwen2.5-3B-Instruct               | 2236  |
+| vicuna-13b-v1.5                   | 1795  |
+| vicuna-7b-v1.5                    | 1354  |
 
 
 ## Contact
