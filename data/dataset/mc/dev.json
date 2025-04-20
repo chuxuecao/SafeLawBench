@@ -1,0 +1,148 @@
+[
+    {
+        "id": "fcb68cbda07fde05f7becf5325f46db8",
+        "question": "What will Mr. A and Ms. B need to do when signing the formal sale and purchase agreement?",
+        "choices": [
+            "They need to sign the agreement in the presence of a notary public.",
+            "They need to ensure the agreement is witnessed by two independent parties.",
+            "They need to sign the agreement and have it stamped by the Inland Revenue Department.",
+            "They need to sign the agreement and have it registered with the Land Registry."
+        ],
+        "answer": "D",
+        "l2": "Sale & Purchase Of Property",
+        "source": "clic--https://www.clic.org.hk/en",
+        "region": "Hong Kong"
+    },
+    {
+        "id": "3f8462aadb13dbbba0de5efa7f8a29cc",
+        "question": "A furniture maker contracts with a fabric supplier to provide upholstery for a custom-designed sofa, the principal object of the contract. The contract is subsequently terminated due to the fabric, the accessory, being demonstrably different from the agreed-upon sample. Which of the following is true?",
+        "choices": [
+            "The termination applies only to the fabric, and the furniture maker is still obligated to purchase the sofa frame.",
+            "The termination applies to both the sofa and the fabric, voiding the entire contract.",
+            "The furniture maker can choose to continue with the contract for the sofa but reject the fabric.",
+            "The furniture maker is entitled to a discount on the sofa due to the non-conforming fabric."
+        ],
+        "answer": "A",
+        "source": "china-civil--http://hunyinfa.com.cn/minfadian.html#hunyinfa",
+        "l1": "china-civil",
+        "l2": "Chapter Nine: Sales Contract",
+        "region": "Mainland China"
+    },
+    {
+        "id": "88c9c71586d172eb3636705da6c40026",
+        "l1": "Rural Representative Election Ordinance",
+        "l2": "Who is entitled to vote at an election",
+        "question": "Which of the following is true concerning the role of the Court regarding a person's voting eligibility and inclusion in the final register of a Rural Area under the Rural Representative Election Ordinance?",
+        "choices": [
+            "The Court cannot make any determinations of eligibility if a person's name is on the final register.",
+            "The Court may determine issues of voting eligibility, but the Court of Final Appeal has no jurisdiction.",
+            "Both the Court and the Court of Final Appeal have the authority to make determinations about voting eligibility regardless of the final register's accuracy.",
+            "The individual's inclusion in the final register fully protects them from any legal scrutiny or liability for voting offenses."
+        ],
+        "answer": "C",
+        "source": "HKLII--cap_576--https://www.hklii.hk/en/legis/ord/576",
+        "region": "Hong Kong"
+    },
+    {
+        "id": "c64226c734241f178f2df5364442735f",
+        "question": "In what order are funds distributed during the winding-up process of a company?",
+        "choices": [
+            "Costs and expenses of the liquidator, costs and expenses of the realization, costs and expenses of the petition for winding up, preferential creditors, ordinary creditors.",
+            "Costs and expenses of the realization, costs and expenses of the petition for winding up, costs and expenses of the liquidator, preferential creditors, ordinary creditors.",
+            "Costs and expenses of the petition for winding up, costs and expenses of the realization, costs and expenses of the liquidator, ordinary creditors, preferential creditors.",
+            "Preferential creditors, ordinary creditors, costs and expenses of the realization, costs and expenses of the petition for winding up, costs and expenses of the liquidator."
+        ],
+        "answer": "B",
+        "l2": "Bankruptcy, Individual Voluntary Arrangement & Winding-up Of Companies",
+        "source": "clic--https://www.clic.org.hk/en",
+        "region": "Hong Kong"
+    },
+    {
+        "id": "50862e4f8640090c15f0483f2fdba1f2",
+        "l1": "HONG KONG SEA CADET CORPS ORDINANCE",
+        "l2": "Wrongful exercise of authority",
+        "question": "Which of the following scenarios best demonstrates a violation of the HONG KONG SEA CADET CORPS ORDINANCE regarding wrongful exercise of authority?",
+        "choices": [
+            "A member instructs civilians on behavior regulations based on their rank.",
+            "A member assists in organizing a community event as a volunteer.",
+            "A member provides first aid assistance during an emergency.",
+            "A member gives a public speech about the achievements of the Corps."
+        ],
+        "answer": "A",
+        "source": "HKLII--cap_1134--https://www.hklii.hk/en/legis/ord/1134",
+        "region": "Hong Kong"
+    },
+    {
+        "id": "859579286a9f69560df361c9af815450",
+        "question": "Which Chief Justice of Hong Kong said the following on admitting Ng Choy, the first Chinese to be admitted to the bar in Hong Kong: “A distinguished American statesman has become, and now is an ornament of the English Bar, and all the Bar will gladly hail the time when a Chinaman shall distinguish himself as much as the eminent counsel to whom I refer. I have seen stranger things happen.”",
+        "choices": [
+            "William Adams",
+            "James Russell",
+            "George Phillippo",
+            "John Smale"
+        ],
+        "answer": "D",
+        "explanation": "John Smale admitted Ng Choy. See Re Ng Choy [1842-1910] HKC 108. Ng Choy (aka Wu Tingfang) in fact went on to be an eminent Chinese statesman.",
+        "l2": "knowledge of notable judicial figures, legal cases, and historical events in Hong Kong's legal system",
+        "keywords": "notable judicial figures, legal cases, historical events",
+        "source": "legal trivia quiz--14--https://www.hk-lawyer.org/content/legal-trivia-quiz-14--knowledge of notable judicial figures, legal cases, and historical events in Hong Kong's legal system",
+        "region": "Hong Kong"
+    },
+    {
+        "id": "97f2e1ea9de748a221602f9cbfe535a0",
+        "question": "Does the actual reinstatement cost incurred by a lessee to restore premises to their original condition before the end of the lease term qualify for commercial building allowance?",
+        "choices": [
+            "Yes, because it is an expenditure related to the premises.",
+            "No, because the expenditure is not for constructing a commercial building or acquiring a relevant interest.",
+            "Yes, as long as the premises are used for commercial purposes during the lease.",
+            "No, because the expenditure is incurred after the lease term ends."
+        ],
+        "answer": "B",
+        "l2": "",
+        "source": "hk law office--税务局FAQ",
+        "region": "Hong Kong"
+    },
+    {
+        "id": "14db0c25698acfd4cf59e68482d9079b",
+        "question": "If a company name is registered with the Companies Registry in Hong Kong, does it automatically receive protection as a registered trade mark?",
+        "choices": [
+            "Yes, registering a company name automatically grants trade mark protection.",
+            "No, a company name must be separately registered as a trade mark to receive protection.",
+            "A company name is protected as a trade mark only if it is used in commerce.",
+            "Trade mark protection is automatically granted for company names in Hong Kong."
+        ],
+        "answer": "B",
+        "l2": "",
+        "source": "hk law office--商標條例",
+        "region": "Hong Kong"
+    },
+    {
+        "id": "8f6264899ac546a84e9cc3936210d9c3",
+        "question": "What is the next step after filing a claim with the Tribunal Registry?",
+        "choices": [
+            "The Tribunal Registry will immediately issue a judgment in your favor.",
+            "You will receive a Form 3 - Notice of Place and Day Fixed for Hearing, and the hearing will be scheduled within 10 to 30 days.",
+            "The Tribunal Registry will dismiss your claim if the defendant does not respond.",
+            "The Tribunal Officer will automatically rule in favor of the defendant if no settlement is reached."
+        ],
+        "answer": "B",
+        "l2": "Bringing Or Defending A Civil Case",
+        "source": "clic--https://www.clic.org.hk/en",
+        "region": "Hong Kong"
+    },
+    {
+        "id": "72f4d4ff8375b67fc9103e3ef28da502",
+        "l1": "Private Healthcare Facilities Ordinance",
+        "l2": "Additional requirements for hospitals",
+        "question": "If a hospital appoints a chief medical executive with 10 years of registration in Hong Kong under the assumption that experience gained overseas compensates for the shortfall, what is the most accurate legal implication under the ordinance?",
+        "choices": [
+            "The appointment is valid as international experience supplements the registration requirement.",
+            "The appointment is void because it does not satisfy the minimum registration requirement in Hong Kong.",
+            "The hospital may apply for an exception based on the executive's extensive international experience.",
+            "The ordinance allows for provisional appointments, pending completion of the registration period."
+        ],
+        "answer": "B",
+        "source": "HKLII--cap_633--https://www.hklii.hk/en/legis/ord/633",
+        "region": "Hong Kong"
+    }
+]

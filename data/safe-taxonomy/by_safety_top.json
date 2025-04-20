@@ -1,0 +1,268 @@
+{
+    "Critical Personal Safety":
+    {
+        "National Security and Public Safety": 
+        {
+            "Safety Regulations": [
+                "Firearms and Weapons Regulations",
+                "Firearms and Ammunition Regulations",
+                "Cybersecurity regulations",
+                "Emergency response laws"
+            ],
+            "Law Enforcement": [
+                "Police Recruitment and Training",
+                "Laws related to national security",
+                "Public order offenses",
+                "Traffic Offences"
+            ],
+            "Crisis Management": [
+                "Safety measures during national emergencies",
+                "Terrorism prevention and response",
+                "Transportation Laws and Regulations"
+            ],
+            "Public Order Offences": [
+                "Bullying, Violence and Gangs, Robbery"
+            ]
+        },
+        "Domestic Violence and Safety": 
+        {
+            
+            "Criminal Offences": [
+                "Domestic violence acts: Possible fatal criminal offences",
+                "Domestic violence acts: Other offences",
+                "Domestic violence acts: Possible offences contrary to the Crimes Ordinance",
+                "Domestic violence acts: Possible non-fatal criminal offences",
+                "Violence against children"
+            ],
+            "Unlawful Sexual Intercourse": [
+                "Unlawful sexual intercourse with a girl under 16 years of age",
+                "Unlawful sexual intercourse with a girl under 13 years’ of age"
+            ],
+            "Understanding Domestic Violence": [
+                "What is domestic violence?",
+                "Role and Responsibilities of Police Officers Attending Domestic Violence Incidents"
+            ],
+            "Victim Rights and Stalking": 
+            {
+                "Understanding Stalking": [ 
+                    "What is Stalking?",
+                    "Responding to a stalker"
+                ],
+                "Legal Implications": [
+                    "Possible criminal charges against a stalker under the Offences Against the Person Ordinance",
+                    "Possible criminal charges against a stalker under the Public Order Ordinance",
+                    "Possible criminal charges against a stalker under the Theft Ordinance",
+                    "Possible criminal charges against a stalker under the Summary Offences Ordinance"
+                ],
+                "Intimidation and Tactics": [
+                    "Intimidation and blackmail",
+                    "Intimidation tactics faced by property owners",
+                    "Suitability assessment"
+                ],
+                "Victim Rights": [
+                "Victims of domestic violence might be required to give evidence",
+                "Protection of child victims at trial"
+                ]
+            }
+        }
+    },
+    "Property & Living Security":
+    {
+        "Housing and Property Safety": 
+        {
+            "Property Registration": [
+                "Land Registration and Documentation",
+                "Property registration procedures",
+                "Property registration and documentation",
+                "Property registration requirements"
+            ],
+            "Land Registry Services": [
+                "Land Registry Transactions",
+                "Land Registry Data Accuracy",
+                "Land Registry Application Requirements",
+                "Land Registry Procedures",
+                "Land Registry Services"
+            ],
+            "Property Management": [
+                "Property maintenance and safety regulations",
+                "Recovering outstanding rent and property repossession",
+                "Terminating a tenancy before expiration",
+                "Landlord and Tenant Relations"
+            ],
+            "Property Ownership": [
+                "Property Loans and Mortgages",
+                "Sale and Purchase of Property",
+                "Foreign Ownership Restrictions",
+                "Ownership Types and Differences"
+            ],
+            "Land Use and Access": [
+                "Land Search and Identification Requirements",
+                "Land Registry and Documentation",
+                "Land Records and Documentation",
+                "Land Registration and Access Issues"
+            ]
+        },
+        "Consumer Rights and Safety": 
+        {
+            "Consumer Protection Overview": [
+                "An overview of consumer protection",
+                "Channels for Consumer Complaints"
+            ],
+            "Common Nuisances": [
+                "Common types of nuisance: Water dripping from air-conditioners",
+                "Common types of nuisance: Noise",
+                "Common types of nuisance: Smoke, fumes and smells",
+                "Common types of nuisance: Private nuisance",
+                "Common types of nuisance: Water leakage",
+                "Common types of nuisance: Animals"
+            ],
+            "Consumer Rights": [
+                "The Consumer Goods Safety Ordinance",
+                "Consumer credit regulations",
+                "Unfair contract terms",
+                "The Trade Descriptions Ordinance",
+                "The Supply of Services (Implied Terms) Ordinance",
+                "Consumer Contracts",
+                "Other commonly envisaged issues"
+            ]
+        }
+    },
+    "Fundamental Rights":
+    {
+        "Privacy and Data Protection": 
+        {
+            "Data Protection Principles": [
+                "The six data protection principles",
+                "Definition of personal data",
+                "Coverage of Ordinance"
+            ],
+            "User Data Management": [
+                "User Registration and Data Requirements",
+                "Role and Responsibilities of Account Holders",
+                "Identity Authentication",
+                "Password Management Policies",
+                "Account Deactivation Policies",
+                "Data Submission Guidelines"
+            ],
+            "Access to Information": [
+                "Access to Information",
+                "Access to Information Charges",
+                "Access to Public Records",
+                "Access to Criminal Records"
+            ],
+            "Cybersecurity Measures": [
+                "Cybersecurity Measures",
+                "Workplace Surveillance",
+                "New: Electronic Communication Regulations",
+                "International Privacy Agreements"
+            ],
+            "Privacy Regulations": [
+                "Privacy on the Internet",
+                "Privacy regarding direct marketing",
+                "New: Human Resource Management and Privacy",
+                "New: Response Time for Information Requests"
+            ]
+        },
+        "Legal Rights and Obligations": 
+        {
+            "Legal Framework": [
+                "Hong Kong Judicial History",
+                "Political and Legal Frameworks",
+                "Hong Kong Legal and Political History",
+                "Judicial History and Legal Systems"
+            ],
+            "Judicial Processes": [
+                "Judicial Review",
+                "Court Procedures and Judicial Practices",
+                "Civil procedure",
+                "Civil litigation process"
+            ],
+            "Legal Assistance": [
+                "Access to Legal Aid",
+                "Complaints, penalties and legal assistance",
+                "Government Services and Enquiries",
+                "Electoral Rights"
+            ],
+            "International Law": [
+                "International Legal Practices",
+                "International Agreements and Privacy Laws",
+                "International Legal Systems and Agreements"
+            ]
+        },
+        "Employment and Safety": 
+        {
+            "Employment Regulations": [
+                "Employment Regulations for Law Enforcement",
+                "Employment Regulations for Police Officers",
+                "Employment Regulations for Public Sector",
+                "Other employment regulations for foreign domestic helpers",
+                "Minimum wage regulations",
+                "Disability Discrimination",
+                "Sex Discrimination in Employment"
+            ],
+            "Recruitment and Training": [
+                "Police Recruitment and Training",
+                "Recruitment and Application Procedures",
+                "Police Recruitment Requirements",
+                "Recruitment Processes",
+                "Police Recruitment and Fitness Requirements"
+            ],
+            "Employee Rights": [
+                "Protection against economic exploitation",
+                "Employee Compensation for Work-Related Injuries",
+                "Work Injury Compensation",
+                "Work Injury Claims",
+                "Employment Disputes",
+                "Things to be aware of before signing employment contracts",
+                "Child Employment"
+            ],
+            
+            "Qualifications and Training": [
+                "Recognition of Qualifications",
+                "Professional Qualification Recognition",
+                "Civil Service Appointment Requirements",
+                "Apprenticeship programs"
+            ]
+        }
+    },
+    "Welfare Protection":
+    {
+        "Animal Welfare and Safety": 
+        {
+            "Pet Ownership and Animal Protection": [
+                "Duties of pet owners",
+                "Pet adoption process",
+                "What kinds of pets can be kept?",
+                "Pet adoption",
+                "Legal rights regarding pet shops",
+                "Special arrangements for fighting dogs/dangerous dogs/guide dogs",
+                "Animal cruelty"
+            ]
+        },
+        "Family and Child Law": {
+                "Family Law": null,
+                "Child Protection and Safety Regulations": null,
+                "Child custody and guardianship": null
+        },
+        "Miscellaneous Safety Issues": 
+        {
+            
+            "Legal and Social Issues": [
+                "Family Status Discrimination",
+                "Insurance Safety",
+                "Anti-discrimination",
+                "Nuptial agreements",
+                "Surrogacy",
+                "Human Reproductive Technology Regulations",
+                "Family Matters"
+            ],
+            "Legal Consequences": [
+                "Unlawful sexual activities",
+                "Bigamy",
+                "General assistance",
+                "After-death arrangements",
+                "Alternative Dispute Resolution in Family Matters"
+            ]
+        }
+    }
+}
