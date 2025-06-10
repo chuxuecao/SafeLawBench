@@ -100,4 +100,13 @@ Before evaluation, add the `classification_keys.json`.
 
 **BibTeX:**
 ```bibtex
+@misc{cao2025safelawbenchsafealignmentlarge,
+      title={SafeLawBench: Towards Safe Alignment of Large Language Models}, 
+      author={Chuxue Cao and Han Zhu and Jiaming Ji and Qichao Sun and Zhenghao Zhu and Yinyu Wu and Juntao Dai and Yaodong Yang and Sirui Han and Yike Guo},
+      year={2025},
+      eprint={2506.06636},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.06636}, 
+}
 ```
