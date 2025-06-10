@@ -42,37 +42,39 @@ Before evaluation, add the `classification_keys.json`.
 
 ### Multi-choices
 
+
 |Model|Open?|Critical Personal Safety|Property & Living Security|Fundamental Rights|Welfare Protection|Average|
 |------------|------------|------------|------------|------------|------------|------------|
-|[claude-3-5-sonnet-20241022](https://www.anthropic.com/news/claude-3-5-sonnet)|No|82.1|86.6|**79.3**|80.4|83.5|**78.6**|**82.4**|**85.8**|**78.6**|**79.0**|**80.5**|
-|[gpt-4o](https://openai.com/index/hello-gpt-4o/)|No|**82.9**|86.6|79.1|**82.8**|**84.7**|77.9|80.2|**85.8**|76.8|78.3|80.3|
-|[deepseek-v3-0324]()|Yes|82.5|**87.5**|78.7|80.9|82.5|76.6|80.9|83.2|78.1|78.8|79.7|
-|[deepseek-r1]()|Yes|81.0|86.0|77.5|79.4|82.2|75.6|78.5|83.2|77.7|76.4|78.5|
-|[Qwen2.5-72B-Instruct](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct)|Yes|81.0|86.2|75.9|78.7|81.7|74.5|78.5|81.4|77.6|74.6|77.6|
-|[Mistral-Large-Instruct-2411](https://huggingface.co/models/Mistral-Large-Instruct-2411)|Yes|80.8|86.0|74.4|78.5|82.5|74.5|78.7|81.7|75.8|75.0|77.2|
-|[Meta-Llama-3-70B-Instruct](https://huggingface.co/models/Llama-3-70B-Instruct)|Yes|79.3|86.4|74.0|76.9|81.9|73.0|77.6|82.6|73.6|73.5|76.1|
-|[QwQ-32B]()|Yes|78.9|84.4|73.2|78.3|81.4|72.3|76.9|80.0|74.2|73.4|75.6|
-|[Llama-3.1-70B-Instruct](https://huggingface.co/models/Llama-3.1-70B-Instruct)|Yes|77.8|87.3|73.9|76.0|79.3|72.1|76.6|78.8|74.3|73.4|75.2|
-|[Qwen2.5-14B-Instruct](https://huggingface.co/Qwen/Qwen2.5-14B-Instruct)|Yes|78.4|84.0|72.1|77.3|79.9|71.2|76.4|80.9|74.3|74.0|74.9|
-|[Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)|Yes|74.5|80.6|68.5|73.0|77.4|66.9|72.4|77.1|70.9|68.9|70.9|
-|[gemma-2-27b-it](https://huggingface.co/models/Gemma-2-27B-IT)|Yes|75.5|81.7|67.4|73.0|75.5|66.7|70.7|75.9|68.6|67.5|70.5|
-|[Mistral-Small-Instruct-2409](https://huggingface.co/models/Mistral-Small-Instruct-2409)|Yes|72.4|78.2|67.0|71.4|74.9|64.2|70.6|76.2|68.2|66.4|68.8|
-|[Meta-Llama-3-8B-Instruct](https://huggingface.co/models/Llama-3-8B-Instruct)|Yes|70.6|75.9|67.5|71.1|76.0|64.0|69.3|76.8|66.9|67.5|68.4|
-|[Llama-3.1-8B-Instruct](https://huggingface.co/models/Llama-3.1-8B-Instruct)|Yes|68.5|72.6|64.0|66.3|71.0|61.4|67.0|72.2|64.5|62.1|65.3|
-|[Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct)|Yes|65.6|74.4|59.4|65.4|69.6|58.4|64.9|71.3|60.9|60.1|62.4|
-|[glm-4-9b-chat](https://huggingface.co/models/GLM-4-9B-Chat)|Yes|64.1|71.7|58.1|66.9|66.4|57.9|61.4|68.1|59.9|59.8|61.2|
-|[gemma-2-2b-it](https://huggingface.co/models/Gemma-2-2B-IT)|Yes|62.7|68.8|56.0|61.1|63.0|54.9|60.7|62.3|57.7|56.2|58.7|
-|[vicuna-7b-v1.5](https://huggingface.co/models/Vicuna-7B-V1.5)|Yes|48.5|50.8|42.5|48.5|44.7|43.3|46.9|51.9|41.1|42.0|45.1|
-|[vicuna-13b-v1.5](https://huggingface.co/models/Vicuna-13B-V1.5)|Yes|33.1|36.5|27.9|32.9|28.9|28.8|30.8|34.2|28.2|26.3|30.0|
+|[claude-3-5-sonnet-20241022](https://www.anthropic.com/news/claude-3-5-sonnet)|No|82.4|79.6|**80.0**|**79.8**|**80.5**|
+|[gpt-4o](https://openai.com/index/hello-gpt-4o/)|No|**83.2**|**79.9**|79.3|78.8|80.3|
+|[deepseek-v3-0324]()|Yes|82.9|79.2|78.3|79.1|79.7|
+|[deepseek-r1]()|Yes|81.4|77.9|77.1|77.8|78.5|
+|[Qwen2.5-72B-Instruct](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct)|Yes|81.4|76.5|76.3|76.5|77.6|
+|[Mistral-Large-Instruct-2411](https://huggingface.co/models/Mistral-Large-Instruct-2411)|Yes|81.2|75.3|76.5|76.2|77.2|
+|[Meta-Llama-3-70B-Instruct](https://huggingface.co/models/Llama-3-70B-Instruct)|Yes|79.9|74.6|75.1|74.8|76.1|
+|[QwQ-32B]()|Yes|79.3|74.3|74.5|74.6|75.6|
+|[Llama-3.1-70B-Instruct](https://huggingface.co/models/Llama-3.1-70B-Instruct)|Yes|78.5|74.4|74.0|74.5|75.2|
+|[Qwen2.5-14B-Instruct](https://huggingface.co/Qwen/Qwen2.5-14B-Instruct)|Yes|78.8|73.2|73.4|75.0|74.9|
+|[Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)|Yes|74.9|69.4|69.5|70.7|70.9|
+|[gemma-2-27b-it](https://huggingface.co/models/Gemma-2-27B-IT)|Yes|76.0|68.6|68.7|69.0|70.5|
+|[Mistral-Small-Instruct-2409](https://huggingface.co/models/Mistral-Small-Instruct-2409)|Yes|72.9|67.9|67.0|68.3|68.8|
+|[Meta-Llama-3-8B-Instruct](https://huggingface.co/models/Llama-3-8B-Instruct)|Yes|71.1|68.3|66.7|68.5|68.4|
+|[Llama-3.1-8B-Instruct](https://huggingface.co/models/Llama-3.1-8B-Instruct)|Yes|68.8|64.5|63.8|64.3|65.3|
+|[Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct)|Yes|66.3|60.7|61.3|61.9|62.4|
+|[glm-4-9b-chat](https://huggingface.co/models/GLM-4-9B-Chat)|Yes|64.7|60.0|59.8|60.9|61.2|
+|[gemma-2-2b-it](https://huggingface.co/models/Gemma-2-2B-IT)|Yes|63.2|57.1|57.2|57.6|58.7|
+|[vicuna-7b-v1.5](https://huggingface.co/models/Vicuna-7B-V1.5)|Yes|48.7|43.8|44.2|43.0|45.1|
+|[vicuna-13b-v1.5](https://huggingface.co/models/Vicuna-13B-V1.5)|Yes|33.4|29.0|29.2|28.0|30.0|
+
 
 ### Open-domain QAs
 
 | Model                             | Elo Score |
 |-----------------------------------|-------|
-| DeepSeek-R1                       | 5652  |
-| Qwen2.5-72B-Instruct              | 5396  |
-| claude-3-5-sonnet-20241022        | 5388  |
-| gpt-4o                            | 5331  |
+| DeepSeek-R1                       | 5651  |
+| Qwen2.5-72B-Instruct              | 5395  |
+| claude-3-5-sonnet-20241022        | 5387  |
+| gpt-4o                            | 5330  |
 | Deepseek-v3                       | 5323  |
 | deepseek-v3-0324                  | 5323  |
 | Mistral-Large-Instruct-2411       | 4831  |
