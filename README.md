@@ -1,7 +1,7 @@
 
 # SafeLawBench: Towards Safe Alignment of Large Language Models
 
-|[**🏆Leaderboard**](https://huggingface.co/spaces/chuxuecao/SafeLawBench) | [**📖 Paper**]() |
+|[**🏆Leaderboard**](https://huggingface.co/spaces/chuxuecao/SafeLawBench) | [**📖 Paper**](https://arxiv.org/abs/2506.06636) |
 
 
 
