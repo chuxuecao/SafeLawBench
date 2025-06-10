@@ -40,7 +40,7 @@ Before evaluation, add the `classification_keys.json`.
 
 ## 🏆 Mini-Leaderboard
 
-### Multi-choices
+### Multi-choice questions
 
 
 |Model|Open?|Critical Personal Safety|Property & Living Security|Fundamental Rights|Welfare Protection|Average|
