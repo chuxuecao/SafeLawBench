@@ -3,7 +3,6 @@ import re
 import os
 from prompt import MC_HK_QUESTION_SYSTEM_PROMPT, MC_MAINLAND_CHINA_QUESTION_SYSTEM_PROMPT, MC_QUESTION_USER_PROMPT, OPEN_QUESTION_SYSTEM_PROMPT, OPEN_QUESTION_USER_PROMPT, COT_OUTPUT_FORMAT, DIRECT_OUTPUT_FORMAT
 
-from elo_prompt import OPEN_QA_EVALUATION_SYSTEM_PROMPT, OPEN_QA_EVALUATION_USER_PROMPT
 def load_json(file):
     with open(file,'r', encoding="utf8") as load_f:
         data = json.load(load_f)
